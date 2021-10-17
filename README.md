@@ -1,24 +1,4 @@
-# SMF HACKING TOOL
-
-## INSTALLATION COMMANDS ↙
-
-- apt-update
-- apt-upgrade
-- pkg install git
-- git clone https://github.com/Apokky-30/SMF-v1.3
-- cd SMF
-- unzip website.zip
-- bash install.sh
-- bash smf.sh
-
-## Features:
-- [+] Latest Login Pages !
-- [+] New Instagram Auto Follower Page !
-- [+] 4 Port Forwarding Options !
-- [+] Easy for Beginners !
-
-## Tunelling Options:
-- Localhost (127.0.0.1)
-- NGROK (https://ngrok.com)
-- SERVEO (https://serveo.net)
-- LOCALHOSTRUN (https://localhost.run)
+# About me ✍️
+Hello there! I am Apokky-30, a kid that loves to make powerful python programs to simplify human activity.
+# Can I use your code for my own projects? 💻
+Yes! you are more than welcome to copy my code and build upon them.
