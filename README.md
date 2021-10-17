@@ -1,0 +1,1 @@
+- 👋 Hello there, I’m @Apokky-30. I am just a kid that makes powerful Python programs to make life simpler.
