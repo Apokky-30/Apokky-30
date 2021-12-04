@@ -1,8 +1,8 @@
 ##### ┌──┤ WHOAMI ├─────────▰▰▰
 ##### ├─▣ You can call me Apokky-30
 ##### ├─▣ Content Creator
-##### ├─▣ software developer
-##### ├─▣ founder of WhyZ-Tech inc.
+##### ├─▣ Software developer
+##### ├─▣ Founder of WhyZ-Tech inc.
 ##### └───────────────────────────────▰▰▰
 
 ##### ┌──┤ SOCIAL ├─────────▰▰▰
