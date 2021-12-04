@@ -1,3 +1,14 @@
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
+
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ You can call me Apokky-30
@@ -11,7 +22,7 @@
 │
 ├─◈ [Instagram](https://instagram.com/apokky_)
 ├─◈ [Instagram](https://instagram.com/whyz.tech)
-├─◈ [YouTube](https://youtube.com/YaZz Gans)
+├─◈ [YouTube](https://www.youtube.com/YaZz%20Gans)
 │
 └───────────────────────────────▰▰▰
 
