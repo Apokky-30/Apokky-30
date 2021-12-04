@@ -11,7 +11,7 @@
 │
 ├─◈ [Instagram](https://instagram.com/apokky_)
 ├─◈ [Instagram](https://instagram.com/whyz.tech)
-├─◈ [YouTube](htpps://youtube.com/YaZz Gans)
+├─◈ [YouTube](https://youtube.com/YaZz Gans)
 │
 └───────────────────────────────▰▰▰
 
