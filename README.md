@@ -1,4 +1,25 @@
-# About me ✍️
-Hello there! I am Apokky-30, a kid that loves to make powerful python programmes to simplify human activity.
-# Can I use your code for my own projects? 💻
-Yes! you are more than welcome to copy my code and build upon them.
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ You can call me Apokky-30
+├─▣ Content Creator
+├─▣ software developer
+├─▣ founder of WhyZ-Tech inc.
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ [Instagram](https://instagram.com/apokky_)
+├─◈ [Instagram](https://instagram.com/whyz.tech)
+├─◈ [YouTube](htpps://youtube.com/YaZz Gans)
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ [Seeker](https://github.com/Apokky-30/seeker-v1.2.7)
+├─◈ [SMF](https://github.com/Apokky-30/SMF-v1.3)
+├─◈ [Real-Time Face Detector](https://github.com/Apokky-30/Real-Time-Face-Detector)
+├─◈ [Real-Time Chat App](https://github.com/Apokky-30/Real-Time-Chat-App)
+│
+└───────────────────────────────▰▰▰
